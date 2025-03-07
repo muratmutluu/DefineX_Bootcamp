@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttributes", "CustomAttributes\CustomAttributes.csproj", "{F3A9C003-5F80-4275-B1E3-58F73A748CDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AttributeUsageConsoleApp", "AttributeUsageConsoleApp\AttributeUsageConsoleApp.csproj", "{762859FC-709D-4648-920C-0D45E765394F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3A9C003-5F80-4275-B1E3-58F73A748CDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A9C003-5F80-4275-B1E3-58F73A748CDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A9C003-5F80-4275-B1E3-58F73A748CDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A9C003-5F80-4275-B1E3-58F73A748CDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{762859FC-709D-4648-920C-0D45E765394F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{762859FC-709D-4648-920C-0D45E765394F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{762859FC-709D-4648-920C-0D45E765394F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{762859FC-709D-4648-920C-0D45E765394F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C17D6A43-C8E0-4BB8-B763-85DF9669D013}
+	EndGlobalSection
+EndGlobal
